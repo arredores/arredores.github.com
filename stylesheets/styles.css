@@ -22,7 +22,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font:"Dancing Script", Lato, sans-serif;
+  font-family:"Dancing Script", Lato, sans-serif;
   font-size:28px;
   font-weight:700;
 }
