@@ -1,6 +1,3 @@
-Um ensaio sobre como utilizar o GitHub para prublicar textos que, ao mesmo tempo, estarão na web, em papel, e serão distribuidos como ebooks nos formatos epub e kindle.
-
------
 Um ensaio sobre como utilizar o GitHub para publicar textos (além de slides, anotações ou combinações destes meios) que, ao mesmo tempo, estarão na web, poderão ser impressos em papel, e serão distribuidos como ebooks nos formatos epub e kindle.
 
 -----
