@@ -17,7 +17,8 @@ Um ensaio sobre como utilizar o GitHub para publicar textos (além de slides, an
 
 ## Blogging with GitHub
 
-- [prose.io](http://prose.io), publishing prose with GitHub, and [introducing prose]( http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/), a content editor for GitHub 
+- [markdown.io](http://www.markdown.io), with bootstrap templates (**!!!**)
+- [prose.io](http://prose.io), publishing prose with GitHub, and [introducing prose]( http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/), a content editor for GitHub (**!!!**)
 - [Sani](http://arkokoley.github.com/blog/2012/11/26/presenting-sani/), a blogging framework (that uses prose.io) 
 - GitHub [Pages](http://pages.github.com), project pages 
 - [mojombo]( https://github.com/mojombo/jekyll)'s [jekyll]( http://jekyllrb.com/) blogging platform, and [JekyllBootstrap](http://jekyllbootstrap.com/), themes 
@@ -34,6 +35,8 @@ Um ensaio sobre como utilizar o GitHub para publicar textos (além de slides, an
 
 ## Other projects
 
+- [WikiPack](http://wikipackit.com/) (**!!!**)
+- [Scribble](http://www.tryscribble.com/)
 - [betterpaste](http://benmj.github.com/author/ben-jacobs.html), thinking about alternatives 
 - [bl.ocks.org](http://bl.ocks.org/), a way of presenting files
 
