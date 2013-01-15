@@ -8,8 +8,7 @@ Um ensaio sobre como utilizar o GitHub para publicar textos (além de slides, an
 ## Gists and markdown
 
 - [GistDeck](https://gistdeck.herokuapp.com/) and [code](https://github.com/nzoschke/gistdeck), presentations 
-- [gist.io](http://gist.io), a nice view of your gists 
-- [gist.io jetpack](https://github.com/canuckistani/gist-io-jetpack), a gist.io link to your gist 
+- [gist.io](http://gist.io), a nice view of your gists  
 - [gist.io at Chrome](https://github.com/roberto/gist-io-chrome), go to gist.io and come back 
 - [Gist Archive](http://gistarchive.appspot.com/), if you want your gist.io links in a page; *example*: [arredores](http://gistarchive.appspot.com/arredores) 
 - [GistFlow](http://gistflow.com/), microblogging 
