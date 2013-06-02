@@ -1,4 +1,4 @@
-[testando p&aacute;gina que est&aacute; em n&iacute;vel mais baixo](http://prose.io/#arredores/arredores.github.com/edit/master/aulas/etica.html)
+[testando p&aacute;gina que est&aacute; em n&iacute;vel mais baixo](http://arredores.github.io/aulas/etica.html)
 
 -----
 
