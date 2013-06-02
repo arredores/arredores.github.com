@@ -1,5 +1,6 @@
 - [testando p&aacute;gina que est&aacute; em n&iacute;vel mais baixo](http://arredores.github.io/aulas/etica.html)
 - [testando apenas com HTML direto no arquivo](http://arredores.github.io/aulas/etica2.html), gerando a p&aacute; com o *template* do WriteMonkey (markdown6.css)
+- [mais um teste com HTML](http://arredores.github.io/aulas/etica3.html), agora utilizando o MarkdownPad para construir e gera o HTML
 
 -----
 
